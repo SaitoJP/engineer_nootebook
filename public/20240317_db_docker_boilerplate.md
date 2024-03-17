@@ -31,7 +31,7 @@ https://github.com/luisaveiro/localhost-databases
 
 1. mysqlのディレクトリを開く
     - https://github.com/luisaveiro/localhost-databases/tree/main/databases/mysql
-1. `compose.yaml` と `.env.example` をローカルへコピーする
+1. `compose.yaml` と `.env.example` をローカルへコピー&ペーストする
 1. `.env.example` を `.env` へリネームし、`DB_ROOT_PASSWORD` を `pass` にする
 1. 利便性向上のため `compose.yaml` 一部編集
     1. `services` に `adminer` を追加し、DBのブラウザから操作できるようにする
@@ -63,3 +63,5 @@ https://github.com/luisaveiro/localhost-databases
 
 # さいごに
 
+今回ご紹介したボイラープレートを使うことで、開発環境のセットアップ時間を削減し、様々なDB環境を容易に構築することができます。
+ぜひこの機会に活用し、より快適な開発環境を実現してみてください。
