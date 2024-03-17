@@ -58,7 +58,7 @@ https://github.com/luisaveiro/localhost-databases
 1. ブラウザで `http://localhost:8080` にアクセスして以下のように入力するとDBへアクセスできる
 
     ※ `サーバ` の箇所は `compose.yaml` の `services` 名を入力します
-    ![image001](/images/20240317_001.png)
+    ![image001](https://github.com/SaitoJP/engineer_nootebook/blob/main/images/20240317_001.png)
 
 
 # さいごに
