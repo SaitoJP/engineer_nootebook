@@ -28,6 +28,7 @@ https://github.com/luisaveiro/localhost-databases
 ## 試してみる
 
 例としてmysqlのリポジトリを使ってみます。
+※ Docker環境の構築に関しては触れません
 
 1. mysqlのディレクトリを開く
     - https://github.com/luisaveiro/localhost-databases/tree/main/databases/mysql
@@ -54,6 +55,7 @@ https://github.com/luisaveiro/localhost-databases
         # ↑ コメントアウトされている箇所を有効にすればOK
         ```
 
+1. `docker compose up`
 1. ブラウザで `http://localhost:8080` にアクセスして以下のように入力するとDBへアクセスできる
 
     ※ `サーバ` の箇所は `compose.yaml` の `services` 名を入力します
