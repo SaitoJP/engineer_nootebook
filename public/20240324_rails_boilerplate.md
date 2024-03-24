@@ -1,10 +1,10 @@
 ---
 title: Railsのおすすめボイラープレート
 tags:
-  - 'Rails'
+  - Rails
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-03-24T10:51:07+09:00'
+id: 7131042b9388f15d8781
 organization_url_name: manabi-labo
 slide: false
 ignorePublish: false
