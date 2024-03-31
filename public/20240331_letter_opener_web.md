@@ -4,7 +4,7 @@ tags:
   - Rails
   - Railsチュートリアル
 private: false
-updated_at: '2024-03-31T16:29:11+09:00'
+updated_at: '2024-03-31T16:31:52+09:00'
 id: f86085e6f5580b803a9f
 organization_url_name: manabi-labo
 slide: false
