@@ -1,11 +1,11 @@
 ---
 title: Railsチュートリアルのメールプレビューを見やすくした(gem letter_opener_web)
 tags:
-  - 'Rails'
-  - 'Railsチュートリアル'
+  - Rails
+  - Railsチュートリアル
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-03-31T16:29:11+09:00'
+id: f86085e6f5580b803a9f
 organization_url_name: null
 slide: false
 ignorePublish: false
