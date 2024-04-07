@@ -12,8 +12,8 @@ ignorePublish: false
 ---
 
 こんにちは！学びと成長しくみデザイン研究所の斉藤です。
-Railsチュートリアルのメールプレビュー画面が見づらく使い勝手が悪いので、
-`letter_opener_web` を導入して改善してみました。
+Railsチュートリアルの第14章が終わった段階の[リポジトリ](https://github.com/yasslab/sample_apps/tree/main/7_0/ch14)をベースにして、[letter_opener_web](https://github.com/fgrehm/letter_opener_web) を導入します。
+letter_opener_web を導入することで、使い勝手の悪いデフォルトのメールプレビュー画面が改善できます。
 
 # プレビュー画面(Before => After)
 
