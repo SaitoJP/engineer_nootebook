@@ -1,5 +1,5 @@
 ---
-title: Railsチュートリアルの認証処理をSorceryに差し替えてみた
+title: Railsチュートリアルの認証処理をSorceryに差し替え
 tags:
   - 'Rails'
   - 'Railsチュートリアル'
