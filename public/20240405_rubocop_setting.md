@@ -4,9 +4,9 @@ tags:
   - Rails
   - Railsチュートリアル
 private: false
-updated_at: ''
-id: null
-organization_url_name: 'manabi-labo'
+updated_at: '2024-04-14T10:39:05+09:00'
+id: 436dcd3abb09929bf2b5
+organization_url_name: manabi-labo
 slide: false
 ignorePublish: false
 ---
